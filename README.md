@@ -12,5 +12,5 @@ https://phoenixnap.com/kb/migrate-centos-to-ubuntu
 yum list installed
 
 ```
-
-5. 
+yum list installed
+```
