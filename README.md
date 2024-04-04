@@ -8,9 +8,7 @@ https://phoenixnap.com/kb/migrate-centos-to-ubuntu
 1. take backup of data
 2. download,configure and install the unbuntu
 3. compare and install packages
-```bash``
-yum list installed
-
 ```
 yum list installed
 ```
+4. 
